@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6c54aae9-d483-4c42-b568-de109da91b48)# BigDataCovidTweets
+# BigDataCovidTweets
 ## Objective
 <ul>
         <li> Utilize PySpark, Parquet format, NLP Techniques and Google Cloud Platform to analyse Big Data; 100 Million tweets related to Covid </li>
